@@ -18,8 +18,10 @@ def two_sum(nums, target):
 
 # Example test case
 nums = [2, 7, 11, 15]
+
 target = 9
 
 answer = two_sum(nums, target)
+
 
 print("Result:", answer)
